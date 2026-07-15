@@ -4,7 +4,7 @@ From the Vibe Coder that brought you the Aerial Fishing Pearl Luck Tracker and U
 
 I present to you, the Brimstone and Elven Crystal Chest Tracker!
 
-Here's what the overlay looks like in game! <br>
+Here's what the overlays looks like in game! <br>
 <img width="179" height="144" alt="image" src="https://github.com/user-attachments/assets/5e780f85-23c8-4e7b-ab5b-775219f63bfd" /> <img width="179" height="143" alt="image" src="https://github.com/user-attachments/assets/1eda419c-8b17-40b3-9abf-8c4f3a00f059" />
 
 
