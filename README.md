@@ -5,7 +5,9 @@ From the Vibe Coder that brought you the Aerial Fishing Pearl Luck Tracker and U
 I present to you, the Brimstone and Elven Crystal Chest Tracker!
 
 Here's what the overlay looks like in game! <br>
-IMAGE HERE
+<img width="179" height="144" alt="image" src="https://github.com/user-attachments/assets/5e780f85-23c8-4e7b-ab5b-775219f63bfd" /> <img width="179" height="143" alt="image" src="https://github.com/user-attachments/assets/1eda419c-8b17-40b3-9abf-8c4f3a00f059" />
+
+
 
 
 With this plugin, you will be able to see the following things:
@@ -22,7 +24,9 @@ You can reset the following stats:
 - Most Spooned
 
 These stats can be reset by Shift + Right-Clicking the overlay on your screen and selecting which option you want to reset! <br>
-IMAGE HERE
+<img width="209" height="275" alt="image" src="https://github.com/user-attachments/assets/e4392cf5-bd27-44b7-b994-946859a0246c" /> <img width="257" height="272" alt="image" src="https://github.com/user-attachments/assets/d93d9c57-772e-46e6-9a58-dbbad26e0c2a" />
+
+
 
 
 Here is the Config menu.<br>
