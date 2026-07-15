@@ -1,13 +1,13 @@
-package com.UnsiredTracker;
+package com.BrimstoneElvenChestTracker;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class UnsiredTrackerPluginTest
+public class BrimstoneElvenChestTrackerPluginTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(UnsiredTrackerPlugin.class);
+		ExternalPluginManager.loadBuiltin(BrimstoneElvenChestTrackerPlugin.class);
 		RuneLite.main(args);
 	}
 }
