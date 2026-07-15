@@ -538,11 +538,11 @@ public class BrimstoneElvenChestTrackerPlugin extends Plugin
 		recalculateLastRareDropFromKnownDrops(stats);
 		saveChestStats(chestType);
 
-		log.info(
-			"Applied {} Last Clog baseline: {}",
-			chestType.displayName,
-			stats.lastClog
-		);
+//		log.info(
+//			"Applied {} Last Clog baseline: {}",
+//			chestType.displayName,
+//			stats.lastClog
+//		);
 	}
 
 	/**
@@ -561,11 +561,11 @@ public class BrimstoneElvenChestTrackerPlugin extends Plugin
 		recalculateLastRareDropFromKnownDrops(stats);
 		saveChestStats(chestType);
 
-		log.info(
-			"Applied {} Last Dupe baseline: {}",
-			chestType.displayName,
-			stats.lastDupe
-		);
+//		log.info(
+//			"Applied {} Last Dupe baseline: {}",
+//			chestType.displayName,
+//			stats.lastDupe
+//		);
 	}
 
 	/**
@@ -664,19 +664,19 @@ public class BrimstoneElvenChestTrackerPlugin extends Plugin
 
 			saveChestTotalOpened(chestType);
 
-			log.debug(
-				"Updated {} total opened to {}",
-				chestType,
-				chestCount
-			);
+//			log.debug(
+//				"Updated {} total opened to {}",
+//				chestType,
+//				chestCount
+//			);
 		}
 		catch (NumberFormatException exception)
 		{
-			log.warn(
-				"Unable to parse chest count from '{}'",
-				formattedCount,
-				exception
-			);
+//			log.warn(
+//				"Unable to parse chest count from '{}'",
+//				formattedCount,
+//				exception
+//			);
 		}
 	}
 
@@ -842,10 +842,10 @@ public class BrimstoneElvenChestTrackerPlugin extends Plugin
 
 		if (chestCount <= 0)
 		{
-			log.debug(
-				"Could not record {} drop because the chest count is unknown.",
-				chestType
-			);
+//			log.debug(
+//				"Could not record {} drop because the chest count is unknown.",
+//				chestType
+//			);
 
 			return;
 		}
