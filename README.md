@@ -30,4 +30,7 @@ These stats can be reset by Shift + Right-Clicking the overlay on your screen an
 
 
 Here is the Config menu.<br>
-IMAGE HERE
+<img width="233" height="552" alt="image" src="https://github.com/user-attachments/assets/af813f8c-dd2e-4133-a7c9-89f747d2c2d0" />
+Within the config menu you're able to turn on or off the different stats, but it turns it off for both chests.
+Also, if you know the last chest KC you got either your last dupe or your last clog (Runelite screenshot should come in handy here) you can input the values and press the checkbox to apply them.
+
