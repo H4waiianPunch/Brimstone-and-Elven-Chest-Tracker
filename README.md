@@ -16,6 +16,10 @@ With this plugin, you will be able to see the following things:
 -   Longest Dry Streak (The most number of chests between 2 clogs or dupes)
 -   Most Spooned (The fewest number of chests between 2 clogs or dupes)
 
+These overlays will only appear when in proximity to their respective chests.
+- Upstairs in the Tower of Voices
+- Mount Karuulm (close to the chest)
+
 You can reset the following stats:
 - All Stats (Sets you back to 0 in everything, including current KC)
 - Last Clog
